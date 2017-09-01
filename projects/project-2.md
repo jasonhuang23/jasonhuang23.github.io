@@ -6,19 +6,13 @@ title: Vacay
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  -Data Structure
+summary: A program that was capabale in using six sorting methods to sort text files.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+For ICS 211, we were instructed to build a program that included the 6 major sorts (heapsort, mergesrot,quicksrot, bubble, selection, insertion) to sort text files ranging from 1000, 5000, and 10000 words. This assignment was developed to teach us about sorting performance, that is why after each sort is done, the console would also output the number of comparisions, number of swaps, and the amount of time it took to run for all sorting methods for the three different files 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
