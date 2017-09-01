@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/56.jpg
 title: Hexadecimal quiz 
-permalink: projects/cotton
+permalink: projects/hexadecimalquiz
 date: 2016
 labels:
   - Java
