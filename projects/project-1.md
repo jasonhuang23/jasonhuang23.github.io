@@ -11,6 +11,7 @@ summary: A cashier simulator that I developed for ICS 211.
 ---
 
 <div class="ui small rounded images">
+images/cashier pic.png
  
 </div>
 
