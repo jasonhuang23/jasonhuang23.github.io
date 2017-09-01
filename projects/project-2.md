@@ -4,7 +4,7 @@ type: project
 image: images/Sorting.png
 title: Vacay
 permalink: projects/sorting
-date: 2015
+date: 2016
 labels:
   - Java
   -Data Structure
