@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Sorting.png
-title: Complex Sorting
+title: Vacay
 permalink: projects/sorting
 date: 2015
 labels:
