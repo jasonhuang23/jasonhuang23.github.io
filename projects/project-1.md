@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cashier.jpg
 title: Cashier CheckoutLine 
-permalink: 
+permalink: projects/cashierline 
 date: 2016
 labels:
   - Java
