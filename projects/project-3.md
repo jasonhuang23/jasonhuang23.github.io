@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project.jpg
+image: images/56.jpg
 title: Hexadecimal quiz 
 permalink: projects/cotton
 date: 2016
