@@ -1,18 +1,23 @@
 ---
 layout: project
 type: project
-image: images/Sorting.png
-title: Vacay
-permalink: projects/sorting
+image: images/hexadecimal.png
+title: Hexadecimal quiz 
+permalink: projects/cotton
 date: 2016
 labels:
   - Java
-  -Data Structure
-summary: A program that was capabale in using six sorting methods to sort text files.
+summary: A hexadecimal quiz for ICS 111
 ---
 
 <img class>
 
-For ICS 211, we were instructed to build a program that included the 6 major sorts (heapsort, mergesrot,quicksrot, bubble, selection, insertion) to sort text files ranging from 1000, 5000, and 10000 words. This assignment was developed to teach us about sorting performance, that is why after each sort is done, the console would also output the number of comparisions, number of swaps, and the amount of time it took to run for all sorting methods for the three different files 
- 
-Source: <a href="http://courses.ics.hawaii.edu/ics211s17-2/morea/150.complex-sorting/experience-A10.html"</a>
+A hexadecimal is a positional numeral system of base 16. It uses 16 distinct symbols, 0 - 9 would be represented as their respected numbers while numbers 10 - 15 would be respresented as A, B, C, D, E, F or as a,b,c,d,e,f. 
+
+
+For this assignment, we were instructed to develop a program that administered 10 hexadecimal addition problems. Once the user was done answering each and everyone of them, the program would then tell the user which questions they got correct and incorrect, the incorrect answers will then be displayed with the correct answer. 
+
+
+
+
+Source: <a href="http://courses.ics.hawaii.edu/ics111f16/morea/070.objects-classes/experience-H08.html"</a>
