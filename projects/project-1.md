@@ -19,4 +19,5 @@ For ICS 211, we were instructed create a program that simulated a cashier checko
 
 The main purpose of the assignment was to teach us how to implement a queue data structure in adding items into the queue and removing them. 
 
+More information can be found on: http://courses.ics.hawaii.edu/ics211s17-2/morea/100.queues/experience-A06.html
 
