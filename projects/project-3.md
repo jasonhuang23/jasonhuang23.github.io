@@ -11,7 +11,7 @@ labels:
 summary: A hexadecimal quiz for ICS 111
 ---
 
-<img class>
+<img class = "ui centered middle image" src="../images/HexadecimalAdd.jpg>
 
 A hexadecimal is a positional numeral system of base 16. It uses 16 distinct symbols, 0 - 9 would be represented as their respected numbers while numbers 10 - 15 would be respresented as A, B, C, D, E, F or as a,b,c,d,e,f. 
 
