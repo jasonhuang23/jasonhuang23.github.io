@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/hexadecimal.png
+title: Hexadecimal quiz 
 permalink: projects/cotton
 date: 2016
 labels:
