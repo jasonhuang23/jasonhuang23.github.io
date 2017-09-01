@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sorting1.jpg
 title: Complex Sorting 
-permalink: projects/cotton
+permalink: projects/complexsorting
 date: 2016
 labels:
   - Java
