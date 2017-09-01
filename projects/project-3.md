@@ -7,6 +7,7 @@ permalink: projects/cotton
 date: 2016
 labels:
   - Java
+  - Hexadecimal
 summary: A hexadecimal quiz for ICS 111
 ---
 
