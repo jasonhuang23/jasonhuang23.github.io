@@ -11,7 +11,7 @@ summary: A cashier simulator that I developed for ICS 211.
 ---
 
 <div class>
-<img class="ui centered middle image" height = "400" width = "980" src="../images/cashier pic.png">
+<img class="ui centered middle image" height = "100" width = "980" src="../images/cashier pic.png">
 </div>
 
 
