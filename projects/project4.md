@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hexadecimal.png
+image: images/sorting.png
 title: Complex Sorting
 permalink: projects/cotton
 date: 2016
