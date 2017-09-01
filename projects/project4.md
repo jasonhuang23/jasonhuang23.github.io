@@ -7,6 +7,7 @@ permalink: projects/cotton
 date: 2016
 labels:
   - Java
+  -sorting
 summary: A sorting program made in ICS 211
 ---
 
