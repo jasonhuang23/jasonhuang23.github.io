@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/hexadecimal.png
-title: Hexadecimal quiz 
+title: Complex Sorting
 permalink: projects/cotton
 date: 2016
 labels:
   - Java
-summary: A hexadecimal quiz for ICS 111
+summary: A sorting program made in ICS 211
 ---
 
 <img class>
