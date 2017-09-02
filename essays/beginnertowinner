@@ -8,7 +8,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui centered middle image" height = "250" width = "1500" src="../images/java vs javascript.jpg">
+<img class="ui centered middle image" src="../images/java vs Javascript.jpg">
 Learning Javascript was just like learning any other language, spoken or programmed, in the beginning it was very difficult, but as time went on I progressed. Going into this module I was a complete newbie, and still am. But with time, I finally completed my freecodecamp module, and I figured it had some similarities to Java, which is the only other programming language that I know as of now. I know I may be criticized for saying Javascript and Java are sort of similar because in actuality, they are not. Although they both begin with the same “4” letters, I’ve learned that they aren’t similar, but I did see some things that I were very familiar with and that weren’t that foreign to me. 
 
  	 For beginners, Java and Javascript both use the same terminology. When adding or removing something out of an array, Javascript used functions such as pop(), push() to manipulate arrays, same for Java but used more primarily in a Stack data structure implementation. Another similarity that I’ve also noticed was that the loops were the same in Javascript. It still had the same ‘“for”, and “while” loops which I was comfortable with in Java.
