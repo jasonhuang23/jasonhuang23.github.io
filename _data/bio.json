@@ -103,19 +103,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure",
-      ]
-    },
-    {
-      "organization": "City and County of Honolulu",
+       "organization": "City and County of Honolulu",
       "website": "",
       "position": "Junior Leader",
       "startDate": "2013-06-20",
@@ -125,6 +113,16 @@
        "supervising a designated child group.",
   "engage and interact with children during activities.",
   "support the adult leader with any tasks given to me.",
+      ]
+    },
+    {
+      "organization": "" ,
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
       ]
     }
   ],
