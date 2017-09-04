@@ -76,15 +76,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Stryker Weiner and Yokota",
+      "position": "Intern",
+      "website": "http://strykerweiner.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-7-10",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist with projects (i.e. research)",
+        "Office environment tasks (i.e. printing, copying, etc.) "
+        "Helping the main staff run errands."
       ]
     },
     {
@@ -114,20 +115,20 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "City and County of Honolulu",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Junior Leader",
+      "startDate": "2013-06-20",
+      "endDate": "2013-07-20",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+       "supervising a designated child group.",
+  "engage and interact with children during activities.",
+  "support the adult leader with any tasks given to me.",
       ]
     }
   ],
-  "awards": [
+  /**"awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -140,7 +141,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],*/
   "references": [
     {
       "name": "Available upon request",
