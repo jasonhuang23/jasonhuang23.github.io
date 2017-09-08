@@ -11,7 +11,7 @@ labels:
 
 <img class="ui centered middle image" src="../images/smartquestion.jpg">
 
-    There's no such thing as a dumb question, but there are stupid ways to ask them. As we continue down our paths as CS students, we will be faced with obstacles/problems. But, what is the right way to ask for help when we get stuck?  The answer to this is very simple and it requires a lot more than just simply asking a generic question, it is called smart questions. 
+   There's no such thing as a dumb question, but there are stupid ways to ask them. As we continue down our paths as CS students, we will be faced with obstacles/problems. But, what is the right way to ask for help when we get stuck?  The answer to this is very simple and it requires a lot more than just simply asking a generic question, it is called smart questions. 
 
 
   Smart questions is an effective way of asking questions without wasting other people's time, is the way I interpret it. Time is money, so when a question is vague or the person asking for help doesn't put the time/effort themselves first, then there is no use in helping. Some characteristics of a smart question include, trying to handle the problem by yourself first, being informative with your questions and always being clear of what you are asking.
