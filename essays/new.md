@@ -1,16 +1,15 @@
 ---
 layout: essay
 type: essay
-title: test
-date: 2017-08-31
+title: Igniting the fire
+date: 2015-08-26
 labels:
-  - Engineering
+  - Software Engineering
+  - Learning
 ---
 
-Where would the world be if it weren't for technology? It has transformed our world into something that would have never been imagined 100 years ago. Humans are now able to connect with each other through different variety of apps without having to pay for a flight to see each other face to face, and the web has become a big source in sharing information easily and effectivly to one another. Although these are just two ways technology benefits us, I've always had a passion for technoloy and it was only ideal to work towards a field in Computer Science. 
+Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
 
+I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
-Although software engineering has been a fairly new topic for me, I've always been interested in learning and building things. The fact that software engineering allows for people to create anything that they desire is a really fascinating thing. This was the main point that stood out to me and really made me interested in this career path.  As a software engineer,there are no boundries in what you can make and the only thing that can limit you is your imagination. 
-
-
-As my software engineering path begins, I hope to experience and learn different skills that can lead me into a successful career in this field. Some skills that I hope to learn is being able to collaborate on a group project, learning different languages, and lastly, learning how to make myself more marketable in the field of software engineering that will hopefully draw attention from different employers.
+I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
