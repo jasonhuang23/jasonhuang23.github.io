@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Do Framworks Work?
+title: Do Frameworks Work?
 date: 2017-10-06
 labels:
   - Engineering
