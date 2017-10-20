@@ -16,7 +16,9 @@ labels:
   nothing seemed to have worked. I was ultimately prompted with the digits homepage with no data, and an inverted menubar. It was very fustrating
   and I honestly would have restarted the whole thing until I randomly decided to check Slack to see if anybody else was encountering the same problem
   that I had, and what did you know, there was actually somebody else that encountered the same problem that made me so fustrated. Finally, as I read through the
-  solution, I was felt like a complete idiot. It turns out that I had forgot to import a file onto my home-page.js, and just of that one little mistake
+  solution, I felt like an complete idiot. It turns out that I had forgot to import a file onto my home-page.js, and just of that one little mistake
   hindered me from finally finishing my WOD. That is why after going through the experience, I realized that it is really important to make sure that whenever you're creating a new file,
-  that it is important that you make sure you imported all the data that you need because 9/10 times, that maybe the reason why your application is showing up the way that it is suppose to be. 
+  that it is important that you make sure you imported all the data that you need because 9/10 times, that maybe the reason why your application is showing up the way that it is suppose to be.
+  
+  
   
