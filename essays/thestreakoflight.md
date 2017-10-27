@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Streak of Light
-date: 2017-09-01
+date: 2017-10-26
 labels:
   - Engineering
   - Reflection
