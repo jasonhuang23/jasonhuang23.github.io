@@ -10,6 +10,8 @@ labels:
   - Javascript
 ---
 
+<img class="ui centered middle image" src="../images/meteorimage.jpeg">
+
 Meteor claims to be the fastest way to build Javascript apps,  but is it really? Well for me, I wouldn’t really know because this is actually the first Javascript framework that I’ve ever used and from the looks of it, there are some pros and cons. A pro was that Meteor included a simple template to get your app started. On the other hand, a couple of cons that stood out to me were, the imports, and the boot up time for an app. 
 
 For a beginner like me, I appreciated the fact that before building an app, there was a meteor sample template to work off of. Although it doesn’t seem much at first, with only a “Click Me” button and a counter tracking how much times you clicked it. It really benefited a beginner like me because, It gave me a sense of how Javascript, HTML, & CSS all worked together. Also, with understanding how the sample template worked, it made it much easier and less confusing when we had to create a Meteor tasklist, and if there wasn’t a sample template to beginning, It would have taken me longer to understand the material. 
