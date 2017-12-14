@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sorting1.jpg
-title: Complex Sorting 
+title: Shooots app 
 permalink: projects/complexsorting
 date: 2016
 labels:
