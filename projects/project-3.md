@@ -10,12 +10,25 @@ labels:
 summary: A sorting program for ICS 211
 ---
 
-<img class="ui centered middle image" src="../images/sorting.png">
+<img class="ui centered middle image" src="../images/">
 
-For this project, I created a program that was able to sort 3 text files ranging from 1000, 5000, and 10000 words. The program will take the 6 main sorts(insertion, bubble, selection, heap, merge, and quick) and sort the files. 
-The main purpose of this program was to learn about sorting performacne in my ICS 211 class. This is shown by having the program output the number of comparisions, swaps,
-and the amount of time it took to run for all sorting methods for the three different files.
+Are you tired of waiting for the bus to commute to school? Wish there was an easier way to catch a ride without calling a taxi? Well that's where the shooots app comes in, an app that solves all your commute problems. The shooots apps was created as our ICS 314 course final project. In a team of three, my groupmates and I wanted to design an application where students are able to carpool with one another to school. The application currently requires a University of Hawaii at Manoa, with plans to make it accessable to the public. 
+
+When users first access the application, they are prompted to create their profile as a rider or a driver. 
+Drivers are allowed to schedule an appointment by the date/time that they are headed to school, and once done, their profile will show up on the filter page along with other fellow drivers.
+Riders are allowed to schedule appointments with drivers that are avaliable.
+You can read more about the functionality [here](https://shooots.github.io/#milestone-2-functionality).
+
+My role for this application was mainly focused on the UI. I was assigned to desgin the landing-page which is a full background image slider, the home-page, header, footer, and the filter page. The most important thing I learned while doing this project was that communication is really key in developing a web application. There were times where my groupmates and I were lacking in communication and that lead to a lot of confusion of which route we wanted to take with the project. Fortunately towards the end, we were able to fix our communication flaws and practiced using better forms of communication.
 
 
 
-Source: <a href="http://courses.ics.hawaii.edu/ics111f16/morea/070.objects-classes/experience-H08.html">Link</a>
+Our [Github](https://shooots.github.io) Page
+
+Our [app](https://shooots.meteorapps.com)
+
+
+ 
+
+
+
