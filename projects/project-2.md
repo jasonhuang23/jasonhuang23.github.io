@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cashier.jpg
-title: Cashier CheckoutLine 
-permalink: projects/cashierline 
-date: 2016
+image: images/landing-page.png
+title: Shooots app 
+permalink: projects/shoootsapp
+date: 2017
 labels:
-  - Java
-summary: A cashier simulator that I developed for ICS 211.
+  - Javascript
+  - Semantic UI
+summary: ICS 314 web application
 ---
 
 <img class="ui centered middle image" src="../images/home-page.png">
