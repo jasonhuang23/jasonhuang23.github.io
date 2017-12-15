@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/sorting1.jpg
+image: images/landing-page.png
 title: Shooots app 
 permalink: projects/shoootsapp
-date: 2016
+date: 2017
 labels:
-  - Java
+  - Javascript
+  - Semantic UI
 summary: ICS 314 web application
 ---
 
-<img class="ui centered middle image" src="../images/">
+<img class="ui centered middle image" src="../images/home-page.png">
 
 <h2>What is shooots?</h2>
 Are you tired of waiting for the bus to commute to school? Wish there was an easier way to catch a ride without calling a taxi? Well that's where the shooots app comes in, an app that solves all your commute problems. The shooots apps was created as our ICS 314 course final project. In a team of three, my groupmates and I wanted to design an application where students are able to carpool with one another to school. The application currently requires a University of Hawaii at Manoa, with plans to make it accessable to the public. 
