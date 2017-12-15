@@ -4,7 +4,7 @@ type: project
 image: images/landing-page.png
 title: Shooots app 
 permalink: projects/shoootsapp
-date: 2014
+date: 2017
 labels:
   - Javascript
   - Semantic UI
