@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/56.jpg
+image: images/HexadecimalAdd.jpg	
 title: Hexadecimal quiz 
 permalink: projects/hexadecimalquiz
 date: 2016
