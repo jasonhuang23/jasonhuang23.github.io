@@ -9,7 +9,7 @@ labels:
   - Coding Ethics
 ---
 
-<img class="ui centered middle image" src="../images/rightorwrong.jpeg">	
+<img class="ui centered middle image" src="../images/rightorwrong(1).jpg">	
 
 <h2>Introduction</h2>
   Would you do the right thing knowing that it was wrong? This is an obstacle not only software developers will encounter once in their careers, but even in our everyday lives. That is why it is important we learn about coding ethics as CS students.
