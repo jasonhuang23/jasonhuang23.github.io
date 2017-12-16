@@ -25,6 +25,6 @@ labels:
    
    Secondly, even after hearing about the passing of the girl, he still made time to celebrate with the client. The writer just couldn't skip out on that juicy steak he had with the clients. Even after hearing about the tragedy, he still made time to have a celebratory dinner. If he really were an ethical engineer, he would have cared about the software that he created and the harm that it was pose to cause, and he would've left the company right then and there. But no, it took the writer until after the dinner to finally resign from his position.
    
-   <h2>The takeaway
+   <h2>The takeaway</h2>
    With these two examples of unethical software engineering, it is important that as ICS students we learn the importance of practicing ethical ways of creating products that consumers can really appreciate and make their lives way more conveinent.
 
